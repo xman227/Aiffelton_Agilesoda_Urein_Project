@@ -6,3 +6,9 @@
   - 보상의 문제인건지? (보상의 파라미터값 조정이 모델의 움직임에 영향을 줄지?)
   - 스텝당 reward의 값을 키울경우 더 유의미 한 값이 나올 수 있는건지...?
   - 훈련량의 문제인건지 근본적인 모델링의 문제인건지? (10000걸음을 걸어야 하는데 100걸음 째인건지 혹은 길의 방향이 틀려서 모델이 어려움을 겪고 있는건지?)
+
+## CNN
+![](https://github.com/youngchurl/Aiffelton_Agilesoda_Urein_Project/blob/main/Actor-Critic/05_23/conv.gif?raw=true)
+
+## Linear
+![](https://github.com/youngchurl/Aiffelton_Agilesoda_Urein_Project/blob/main/Actor-Critic/05_23/linear.gif?raw=true)
