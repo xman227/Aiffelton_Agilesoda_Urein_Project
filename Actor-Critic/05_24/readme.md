@@ -4,3 +4,4 @@
 2. PPO 모델을 새롭게 짜는 중인데 이는 5.25까지 완료할 예정
 
 ## 오늘의 모델
+![](https://github.com/youngchurl/Aiffelton_Agilesoda_Urein_Project/blob/main/Actor-Critic/05_24/2000.gif?raw=true)
