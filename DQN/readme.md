@@ -70,7 +70,7 @@ clear    : 10
 - learning_rate = 0.01 (default)
 - gamma = 0.99
 - buffer_limit  = 100000 **(5만보다 확실히 학습이 잘된다)**
-- batch_size = 128 **(64 에서 128 사이가 학습이 잘된다) **
+- batch_size = 128 **(64 에서 128 사이가 학습이 잘된다)**
 - interval = 100
 - a_step = 500
 - buffer_size > 4000: train
