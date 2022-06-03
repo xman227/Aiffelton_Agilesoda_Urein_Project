@@ -6,7 +6,7 @@
 해당 알고리즘은 목적지와의 최단 거리를 휴리스틱하게 찾아낸다.
 
 ### A* algorithm 🤢
-<img src='./result0.gif' width=50px>
+<img src='./result0.gif' width='50px'>
 
 파란색 상자는 Agent 가 행동하기 이전 최단 거리를 탐색하는 과정이다.
 탐색에 총 87 Action.  
@@ -18,12 +18,12 @@
 바로 다음 Action을 취하기 때문에 탐색과정을 생략할 수 있다.
 
 ### DQN algorithm 😁
-<img src='./dqn0.gif' width=50px>
+<img src='./dqn0.gif' width='50px'>
 
 행동 42 Action 만으로 성공하는 모습을 확인할 수 있다.
 
 
 아래는 A* 알고리즘의 다른 test data 예시이다.
 
-<img src='./result1.gif' width=50px>
-<img src='./result2.gif' width=50px>
+<img src='./result1.gif' width='50px'>
+<img src='./result2.gif' width='50px'>
