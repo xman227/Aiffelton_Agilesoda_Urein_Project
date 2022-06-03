@@ -148,7 +148,7 @@ Epi 가 하나였으니 문제가 쉬웠지만,
 ### 😑 1.   
 - 에이전트의 시야를 기준으로 상태를 잡아주었다.   
 - 에이전트의 시야 범위는 에이전트를 중심으로 7\*7, 9\*9 두 가지를 테스트했다.   
-![image](https://user-images.githubusercontent.com/96903347/171770324-a01a472d-b374-488a-8aa6-cf6043b4fcc2.png)   
+![image](https://user-images.githubusercontent.com/96903347/171789627-6d677829-83e6-425e-922d-b346e87e94dd.png)   
 
 - 레이어도 이에 맞춰서 conv2D 3개로 수정.
 - 이 상태로 train 에피소드를 학습시킨 결과, 성능은 그렇게 좋지 못했다.
