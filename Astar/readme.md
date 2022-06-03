@@ -6,7 +6,7 @@
 해당 알고리즘은 목적지와의 최단 거리를 휴리스틱하게 찾아낸다.
 
 ### A* algorithm 🤢
-<img src='./result0.gif' width='50px'>
+<img src='./result0.gif' width=50>
 
 파란색 상자는 Agent 가 행동하기 이전 최단 거리를 탐색하는 과정이다.
 탐색에 총 87 Action.  
