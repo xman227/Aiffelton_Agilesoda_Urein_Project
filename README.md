@@ -7,9 +7,9 @@
 
 &nbsp;  
 [About The Project](#about-the-project)<br/>
-[Code Description](#about-the-project)<br/>
+[Code Description](#code-description)<br/>
 [Team Members](#team-members)<br/>
-[Result](#model)<br/>
+[Result](#result)<br/>
 
 </details>
 
